@@ -6,7 +6,7 @@ Hey there, thank you for stopping by!
 
 - 🙋‍♂️ I'm Shobon
 - 🎓 I'm currently a stutent at Instituto Federal de São Paulo
-- 👨‍💻 I'm a Full-Stack Developer
+- 👨‍💻 I'm a Full-Stack Developer   
   - Programming languages I'm learning:
     - C
     - Typescript
@@ -49,4 +49,4 @@ Opa, e aí?
 > Amo músicas dos anos 80 (especialmente as do gênero Synthpop) e, atualmente, dos gêneros Synthwave e Vaporwave. Ouço-as enquanto programo :p
 #### Ｓｅｅ ｙａ 👋
 
-Update: 2021/05/14 (YYYY/MM/DD)
+Last update on: 2021/07/05 (YYYY/MM/DD)
