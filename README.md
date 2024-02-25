@@ -72,4 +72,4 @@ Obrigado por visitar meu perfil (っ˘ω˘ς )
 #### Ｓｅｅ ｙａ 👋
 
 
-Last update on: 2024/02/24 (YYYY/MM/DD)
+Last update on: 2024-02-24
