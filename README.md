@@ -66,6 +66,7 @@ Opa, e aí?
 > Amo músicas dos anos 80 e, atualmente, dos gêneros Synthwave, Retrowave e Vaporwave. Ouço-as enquanto programo :p
 
 Thank you for visiting my profile (っ˘ω˘ς )
+
 Obrigado por visitar meu perfil (っ˘ω˘ς )
 
 #### Ｓｅｅ ｙａ 👋
