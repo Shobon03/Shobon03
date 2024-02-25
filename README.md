@@ -2,15 +2,13 @@
 
 #### EN
 
-Hey there, thank you for stopping by!
+Oh why, hello there!
 
 - 🙋‍♂️ My name is Matheus
 - 🎓 I'm graduated at Instituto Federal de São Paulo
-- 🎓 Currently, studying Computer Science on UNIP
+- 🎓 Currently, studying Computer Science on UNIP (5th period / term)
 - 👨‍💻 I'm a Full-Stack Developer   
-  - Programming languages I'm learning:
-    - TBA
-  - Programming languages I've learned:
+  - Programming languages:
     - Python (my first one, yay!)
     - Java
       - Java for Android
@@ -18,6 +16,8 @@ Hey there, thank you for stopping by!
     - Javascript
     - PHP
     - C
+    - Typescript 💙
+    - Go 💙
 - 💜 I love Free and Open Source Software
 - 🕴 I'm a privacy concerned person
 
@@ -30,11 +30,9 @@ Opa, e aí?
 
 - 🙋‍♂️ Me chamo Matheus
 - 🎓 Sou graduado no Instituto Federal de São Paulo
-- 🎓 Atualmente, cursando Ciência da Computação na UNIP
+- 🎓 Atualmente, cursando Ciência da Computação na UNIP (5º semestre)
 - 👨‍💻 Sou um Desenvolvedor Full-Stack
-  - Linguagens de programação que estou aprendendo:
-    - TBA
-  - Linguagens de programação que aprendi:
+  - Linguagens de programação:
     - Python (a primeira, yay!)
     - Java
       - Java para Android
@@ -42,17 +40,23 @@ Opa, e aí?
     - Javascript
     - PHP
     - C
+    - Typescript 💙
+    - Go 💙
 - 💜 Amo Software Livre e de Código Aberto
 - 🕴 Me preocupo com privacidade
 
 > ❤️ Desenvolviemnto | Liberdade de Software
 
 
-
 # _**ＦＥＥＬ ＴＨＥ ＳＹＮＴＨ**_
 ![](feel-the-synth.gif)
-> I love music from the 80s (specially those in the Synthpop genre) and, nowadays, from the Synthwave and Vaporwave genres. I listen to them while programming :p\
-> Amo músicas dos anos 80 (especialmente as do gênero Synthpop) e, atualmente, dos gêneros Synthwave e Vaporwave. Ouço-as enquanto programo :p
+> I love music from the 80s and, nowadays, from the Synthwave, Retrowave and Vaporwave genres. I listen to them while programming :p\
+> Amo músicas dos anos 80 e, atualmente, dos gêneros Synthwave, Retrowave e Vaporwave. Ouço-as enquanto programo :p
+
+Thank you for visiting my profile =^)
+Obrigado por visitar meu perfil =^)
+
 #### Ｓｅｅ ｙａ 👋
 
-Last update on: 2022/08/13 (YYYY/MM/DD)
+
+Last update on: 2024/02/24 (YYYY/MM/DD)
