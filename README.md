@@ -34,6 +34,4 @@ Opa, e aí?
 - 💪 Aprendendo Golang
 - 💜 Amo o universo FOSS
 
-#### Ｓｅｅ ｙａ 👋
-
-Last update on: 2024-04-16
+`Updated on: 2024-04-16`
