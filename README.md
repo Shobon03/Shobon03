@@ -1,6 +1,4 @@
-### Hello World 👋
-
-#### EN
+# Hello World 👋
 
 What's up?
 
@@ -17,7 +15,9 @@ What's up?
 - 💪 Learning Golang
 - 💜 I love the FOSS world
 
-#### PT-BR
+<hr>
+
+# Olá mundo 👋
 
 Opa, e aí?
 
