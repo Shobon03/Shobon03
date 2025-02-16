@@ -11,6 +11,7 @@
 How is it going?
 
 - 🙋‍♂️ My name is Matheus
+- 🇧🇷 I'm Brazilian
 - 🎓 I have a technical degree from Instituto Federal de São Paulo (IFSP)
 - 🎓 Currently, studying Computer Science on UNIP (7th term)
 - 🐧 Linux lover (Currently using Fedora)
@@ -30,6 +31,7 @@ How is it going?
 Como vai?
 
 - 🙋‍♂️ Me chamo Matheus
+- 🇧🇷 Sou brasileiro
 - 🎓 Sou formado técnico no Instituto Federal de São Paulo (IFSP)
 - 🎓 Atualmente, cursando Ciência da Computação na UNIP (7º semestre)
 - 🐧 Amante de Linux (Usando Fedora)
@@ -49,6 +51,7 @@ Como vai?
 好的？
 
 - 🙋‍♂️ 我是 Matheus
+- 🇧🇷 我是巴西人
 - 🎓 我拥有技术学位的 Instituto Federal de São Paulo (IFSP)
 - 🎓 目前在 UNIP 学习计算机科学（第七学期）
 - 🐧 我喜欢 Linux （使用 Fedora）
