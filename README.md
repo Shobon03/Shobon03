@@ -30,20 +30,27 @@ Sou o **Matheus**, um desenvolvedor Full-Stack apaixonado do Brasil que adora cr
 ### Languages | Linguagens | 语言
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### Frontend | Frontend | 前端
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ### Backend | Backend | 后端
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Tools & OS | Ferramentas & SO | 工具和操作系统
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) && ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 
 ---
 
@@ -66,17 +73,6 @@ Sou o **Matheus**, um desenvolvedor Full-Stack apaixonado do Brasil que adora cr
 
 </div>
 
-<!---
-
-## ⭐ Repository Highlights | Repositórios em Destaque | 重点仓库
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shobon03&repo=seu-projeto-principal&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Shobon03/seu-projeto-principal)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shobon03&repo=outro-projeto&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Shobon03/outro-projeto)
-
-</div>
--->
 ---
 
 ## 📈 Activity Graph | Gráfico de Atividade | 活动图表
@@ -87,27 +83,15 @@ Sou o **Matheus**, um desenvolvedor Full-Stack apaixonado do Brasil que adora cr
 
 </div>
 
-<!---
-
-## 🏆 GitHub Trophies | Troféus GitHub | GitHub 奖杯
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Shobon03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-  
---->
-
 ---
 
 ## 🤝 Connect with Me | Conecte-se Comigo | 与我联系
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/matheus-teixeira-020584229/))
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-portfolio.com) -->
+<!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com) -->
 
 </div>
 
@@ -117,7 +101,7 @@ Sou o **Matheus**, um desenvolvedor Full-Stack apaixonado do Brasil que adora cr
 
 - 🐧 **Linux enthusiast** since 2019
 - 💜 **FOSS advocate** - Free source FTW
-- 🎮 Passionate about **retro gaming** and **homebrew development**
+- 🎮 Passionate about **retro gaming**, **homebrew development** and **synthwave music**
 - 🌏 Speaks **Portuguese**, **English**, and learning **Mandarin** | Falo **Português**, **Inglês** e aprendendo **Mandarim** | 我会说**葡萄牙语**、**英语**，并且正在学习**中文**
 
 ---
