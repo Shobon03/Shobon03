@@ -16,6 +16,12 @@ Sou o **Matheus**, um desenvolvedor Full-Stack apaixonado do Brasil que adora cr
 
 我是 **Matheus**，一位来自巴西的热情全栈开发人员，喜欢创建创新解决方案并为开源社区做出贡献。
 
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://SEU_SITE_AQUI)
+
+</div>
+
 ---
 
 ## 🎓 Education | Educação | 教育
@@ -32,7 +38,7 @@ Sou o **Matheus**, um desenvolvedor Full-Stack apaixonado do Brasil que adora cr
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Frontend | Frontend | 前端
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -43,13 +49,11 @@ Sou o **Matheus**, um desenvolvedor Full-Stack apaixonado do Brasil que adora cr
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Tools & OS | Ferramentas & SO | 工具和操作系统
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 
 ---
@@ -57,7 +61,7 @@ Sou o **Matheus**, um desenvolvedor Full-Stack apaixonado do Brasil que adora cr
 ## 🌱 Currently Learning | Aprendendo Atualmente | 目前学习
 
 - 🔥 **SNES Assembly** - Retro game development
-- ⚡ **Rust, Gleam, GoLang and Eixir** - Modern programming languages
+- ⚡ **Gleam** - Modern functional programming
 
 ---
 
@@ -88,9 +92,8 @@ Sou o **Matheus**, um desenvolvedor Full-Stack apaixonado do Brasil que adora cr
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/matheus-teixeira-020584229/))
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-portfolio.com) -->
-<!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-teixeira-020584229/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shobon03.github.io/portfolio/)
 
 </div>
 
