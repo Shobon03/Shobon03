@@ -112,8 +112,6 @@ Sou o **Matheus**, um desenvolvedor Full-Stack apaixonado do Brasil que adora cr
 
 ### Thanks for visiting! | Obrigado pela visita! | 感谢访问！
 
-![Visitor Count](https://profile-counter.glitch.me/Shobon03/count.svg)
-
 *"Code is poetry written in logic"* | *"Código é poesia escrita em lógica"* | *"代码是用逻辑写的诗"*
 
 </div>
