@@ -56,9 +56,8 @@ Sou o **Matheus**, um desenvolvedor Full-Stack apaixonado do Brasil que adora cr
 
 ## 🌱 Currently Learning | Aprendendo Atualmente | 目前学习
 
-- 🏗️ **BIM Software** - My graduation thesis
 - 🔥 **SNES Assembly** - Retro game development
-- ⚡ **Gleam, GoLang and Eixir** - Modern programming languages
+- ⚡ **Rust, Gleam, GoLang and Eixir** - Modern programming languages
 
 ---
 
