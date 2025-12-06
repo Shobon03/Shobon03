@@ -10,11 +10,11 @@
 
 **🇬🇧 English** | **🇧🇷 Português** | **🇨🇳 中文**
 
-I'm **Matheus**, a passionate Full-Stack Developer from Brazil who loves creating innovative solutions and contributing to the open-source community.
+Hi there! I'm a passionate Full-Stack Developer from Brazil who loves creating innovative solutions and contributing to the open-source community.
 
-Sou o **Matheus**, um desenvolvedor Full-Stack apaixonado do Brasil que adora criar soluções inovadoras e contribuir para a comunidade open-source.
+Opa, e aí? Sou um desenvolvedor Full-Stack apaixonado do Brasil que adora criar soluções inovadoras e contribuir para a comunidade open-source.
 
-我是 **Matheus**，一位来自巴西的热情全栈开发人员，喜欢创建创新解决方案并为开源社区做出贡献。
+大家好，我一位来自巴西的热情全栈开发人员，喜欢创建创新解决方案并为开源社区做出贡献。
 
 <div align="center">
   
@@ -83,17 +83,6 @@ Sou o **Matheus**, um desenvolvedor Full-Stack apaixonado do Brasil que adora cr
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shobon03&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true)
-
-</div>
-
----
-
-## 🤝 Connect with Me | Conecte-se Comigo | 与我联系
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-teixeira-020584229/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shobon03.github.io/portfolio/)
 
 </div>
 
