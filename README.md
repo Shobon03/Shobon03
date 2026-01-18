@@ -10,12 +10,6 @@ Opa, e aí? Sou um desenvolvedor Full-Stack apaixonado do Brasil que adora criar
 
 大家好，我一位来自巴西的热情全栈开发人员，喜欢创建创新解决方案并为开源社区做出贡献。
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shobon03.github.io/portfolio/)
-
-</div>
-
 ---
 
 ## 🎓 Education | Educação | 教育
