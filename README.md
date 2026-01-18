@@ -1,11 +1,5 @@
 # Hi there! 👋 | Olá! 👋 | 你好！👋
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;Open+Source+Enthusiast;Linux+Lover+%F0%9F%90%A7)
-
-</div>
-
 ## 🚀 About Me | Sobre Mim | 关于我
 
 **🇬🇧 English** | **🇧🇷 Português** | **🇨🇳 中文**
@@ -36,7 +30,7 @@ Opa, e aí? Sou um desenvolvedor Full-Stack apaixonado do Brasil que adora criar
 ### Languages | Linguagens | 语言
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![GoLang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
@@ -60,39 +54,13 @@ Opa, e aí? Sou um desenvolvedor Full-Stack apaixonado do Brasil que adora criar
 
 ## 🌱 Currently Learning | Aprendendo Atualmente | 目前学习
 
-- 🔥 **SNES Assembly** - Retro game development
-- ⚡ **Gleam** - Modern functional programming
-
----
-
-## 📊 GitHub Stats | Estatísticas GitHub | GitHub 统计
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shobon03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shobon03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shobon03&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-## 📈 Activity Graph | Gráfico de Atividade | 活动图表
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shobon03&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true)
-
-</div>
-
----
+- 🔥 **SNES Assembly** - Retro game development (mostly SMW)
+- ⚡ **Rust**, **GoLang**  - Modern functional programming languages
 
 ## 💡 Fun Facts | Curiosidades | 有趣的事实
 
 - 🐧 **Linux enthusiast** since 2019
-- 💜 **FOSS advocate** - Free source FTW
-- 🎮 Passionate about **retro gaming**, **homebrew development** and **synthwave music**
+- 🎮 Passionate about **retro gaming**, **homebrew development**, **systems programming** and **synthwave music**
 - 🌏 Speaks **Portuguese**, **English**, and learning **Mandarin** | Falo **Português**, **Inglês** e aprendendo **Mandarim** | 我会说**葡萄牙语**、**英语**，并且正在学习**中文**
 
 ---
