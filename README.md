@@ -4,7 +4,7 @@
 
 Hi there! I'm a passionate Full-Stack Developer from Brazil who loves creating innovative solutions and contributing to the open-source community.
 
-Connect with me: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/matheus-teixeira-020584229/)
+<div style="display: flex; align-items: center">Connect with me: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/matheus-teixeira-020584229/)</div>
 
 ---
 
@@ -25,13 +25,13 @@ Connect with me: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Linke
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
 
-### Frontend | Frontend | 前端
+### Frontend 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)
 
-### Backend | Backend | 后端
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
@@ -43,7 +43,7 @@ Connect with me: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Linke
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
 
-### Tools & OS | Ferramentas & SO | 工具和操作系统
+### Tools && Operating Systems
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
