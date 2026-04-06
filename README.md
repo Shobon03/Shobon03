@@ -4,12 +4,16 @@
 
 Hi there! I'm a passionate Full-Stack Developer from Brazil who loves creating innovative solutions and contributing to the open-source community.
 
-<p>
-  Connect with me: 
-  <a href="https://www.linkedin.com/in/matheus-teixeira-020584229">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" align="center" />
-  </a>
-</p>
+<table border="0">
+  <tr>
+    <td style="vertical-align: middle;">Connect with me:</td>
+    <td style="vertical-align: middle;">
+      <a href="https://www.linkedin.com/in/matheus-teixeira-020584229">
+        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
