@@ -1,14 +1,10 @@
-# Hi there! 👋 | Olá! 👋 | 你好！👋
+# Hi there! 👋
 
-## 🚀 About Me | Sobre Mim | 关于我
-
-**🇬🇧 English** | **🇧🇷 Português** | **🇨🇳 中文**
+## 🚀 About Me
 
 Hi there! I'm a passionate Full-Stack Developer from Brazil who loves creating innovative solutions and contributing to the open-source community.
 
-Opa, e aí? Sou um desenvolvedor Full-Stack apaixonado do Brasil que adora criar soluções inovadoras e contribuir para a comunidade open-source.
-
-大家好，我一位来自巴西的热情全栈开发人员，喜欢创建创新解决方案并为开源社区做出贡献。
+Connect with me: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/matheus-teixeira-020584229/)
 
 ---
 
@@ -19,50 +15,59 @@ Opa, e aí? Sou um desenvolvedor Full-Stack apaixonado do Brasil que adora criar
 
 ---
 
-## 💻 Tech Stack | Stack Tecnológica | 技术栈
+## 💻 Tech Stack
 
-### Languages | Linguagens | 语言
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![GoLang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+### Programming Languages
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
 
 ### Frontend | Frontend | 前端
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)
 
 ### Backend | Backend | 后端
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000)
+![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
 
 ### Tools & OS | Ferramentas & SO | 工具和操作系统
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)
 
 ---
 
-## 🌱 Currently Learning | Aprendendo Atualmente | 目前学习
+## 🌱 Currently Learning
 
 - 🔥 **SNES Assembly** - Retro game development (mostly SMW)
-- ⚡ **Rust**, **GoLang**  - Modern functional programming languages
+- ⚡ **Rust**, **GoLang**, **Elixir**, **Kotlin**  - Modern programming languages
 
-## 💡 Fun Facts | Curiosidades | 有趣的事实
+## 💡 Fun Facts
 
 - 🐧 **Linux enthusiast** since 2019
 - 🎮 Passionate about **retro gaming**, **homebrew development**, **systems programming** and **synthwave music**
-- 🌏 Speaks **Portuguese**, **English**, and learning **Mandarin** | Falo **Português**, **Inglês** e aprendendo **Mandarim** | 我会说**葡萄牙语**、**英语**，并且正在学习**中文**
+- 🌏 Speaks **Portuguese**, **English**, and learning **Mandarin**
 
 ---
 
 <div align="center">
 
-### Thanks for visiting! | Obrigado pela visita! | 感谢访问！
+### Thanks for visiting!
 
-*"Code is poetry written in logic"* | *"Código é poesia escrita em lógica"* | *"代码是用逻辑写的诗"*
+*"Code is poetry written in logic"*
 
 </div>
