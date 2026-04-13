@@ -8,7 +8,7 @@ Hi there! I'm a passionate Full-Stack Developer from Brazil who loves creating i
 
 ---
 
-## 🎓 Education | Educação | 教育
+## 🎓 Education
 
 - 🏫 **Technical Degree** - Instituto Federal de São Paulo (IFSP)
 - 🎓 **Computer Science** - UNIP
