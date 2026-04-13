@@ -11,7 +11,7 @@ Hi there! I'm a passionate Full-Stack Developer from Brazil who loves creating i
 ## 🎓 Education | Educação | 教育
 
 - 🏫 **Technical Degree** - Instituto Federal de São Paulo (IFSP)
-- 🎓 **Computer Science** - UNIP (8th semester) | (8º semestre) | (第八学期)
+- 🎓 **Computer Science** - UNIP
 
 ---
 
