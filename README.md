@@ -4,6 +4,8 @@
 
 Hi there! I'm a passionate Full-Stack Developer from Brazil who loves creating innovative solutions and contributing to the open-source community.
 
+[![My WebSite](https://img.shields.io/badge/-My_WebSite-8a35da)](https://shobon03.github.io/portfolio/)
+
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/matheus-teixeira-020584229/)
 
 ---
