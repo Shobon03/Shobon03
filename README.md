@@ -1,5 +1,3 @@
-# Hi there! 👋
-
 ## 🚀 About Me
 
 Whoa hello there! I'm just a passionate Software Engineer who loves creating innovative solutions and tinker with computers.
@@ -14,6 +12,11 @@ Whoa hello there! I'm just a passionate Software Engineer who loves creating inn
 
 - 🏫 **Technical Degree** - Instituto Federal de São Paulo (IFSP).
 - 🎓 **Computer Science** - UNIP.
+
+## 🏆️ Certifications
+
+- 🖨️ [Google IT Support Professional](https://coursera.org/share/8ea22318a39edb85d4b79c4c798cd90d)
+- 🍃️ [MongoDB Associate Developer](https://learn.mongodb.com/c/mSDJvwZ_QmCiKCFwi4V1Rw)
 
 ---
 
@@ -37,13 +40,6 @@ Whoa hello there! I'm just a passionate Software Engineer who loves creating inn
 ### Tools && Operating Systems
 [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
 [![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)](#)
-
----
-
-## Certifications
-
-- 🖨️ [Google IT Support Professional](https://coursera.org/share/8ea22318a39edb85d4b79c4c798cd90d)
-- 🍃️ [MongoDB Associate Developer](https://learn.mongodb.com/c/mSDJvwZ_QmCiKCFwi4V1Rw)
 
 ---
 
