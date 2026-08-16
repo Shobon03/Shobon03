@@ -24,8 +24,9 @@ Whoa hello there! I'm just a passionate Software Engineer who loves creating inn
 
 ### Programming Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
 ### Frontend 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
@@ -46,8 +47,9 @@ Whoa hello there! I'm just a passionate Software Engineer who loves creating inn
 ## 🌱 Currently Learning
 
 - 💽️ **System Design** - Software engineering principles and architectural decisions.
-- ⚡ **Rust**, **Golang**, **Elixir && Gleam** - Modern programming languages.
-- 🔥 **SNES Assembly** - Retro game modding and hacking (mostly SMW).
+- 🎯️ **C** and **Java** - Classic programming languages.
+- ⚡ **Rust**, **Go**, **Elixir** and **Gleam** - Modern programming languages.
+- 👾️ **SNES Assembly** - Retro game modding and hacking (mostly SMW).
 
 ## 💡 Fun Facts About Me
 
